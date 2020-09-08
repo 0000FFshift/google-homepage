@@ -1,3 +1,3 @@
-# This is a test
+# Google Homepage Replication
 
-I will put content here after the project has been completed
+#### Goal:
